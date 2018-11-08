@@ -1,5 +1,5 @@
 {
-    "name": "administrator/demo",
+    "name": "ashui/ashuidemo",
     "description": "a private demo to test composer and say hello to word",
     "authors": [
         {
