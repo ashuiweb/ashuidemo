@@ -1,0 +1,11 @@
+{
+    "name": "administrator/demo",
+    "description": "a private demo to test composer and say hello to word",
+    "authors": [
+        {
+            "name": "ashuiweb",
+            "email": "1032414245@qq.com"
+        }
+    ],
+    "require": {}
+}
