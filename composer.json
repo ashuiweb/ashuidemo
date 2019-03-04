@@ -1,0 +1,14 @@
+{
+    "name": "ashuiweb/ashuidemo",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "ashuiweb",
+            "email": "bangbangyang@yeah.net"
+        }
+    ]
+}
